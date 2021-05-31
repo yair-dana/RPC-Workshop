@@ -11,3 +11,4 @@ package-lock.json
 .yo-rc.json
 serverless
 .env*.local
+.idea/
